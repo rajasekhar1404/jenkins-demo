@@ -15,7 +15,7 @@ public class TaskController {
 
     @GetMapping("/task")
     public String getTask() {
-        return "Task created.."
+        return "Task created..";
     }
 
 }
